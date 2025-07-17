@@ -1,0 +1,22 @@
+# Python
+.venv/
+env/
+__pycache__/
+*.pyc
+*.egg-info/
+.Python/
+.ipynb_checkpoints/
+jupyter_notebook_config.py
+
+# Docker
+mysql_data/
+# If sales_data.sql is generated, you might want to ignore it or commit it if it's a fixed dump.
+# For now, let's keep it (i.e., ensure *.sql is NOT in .gitignore)
+# The image mentioned it should be saved in the same Module 1 folder, so likely it should be tracked.
+
+# Operating System
+.DS_Store
+Thumbs.db
+
+# IDE (VS Code)
+.vscode/
