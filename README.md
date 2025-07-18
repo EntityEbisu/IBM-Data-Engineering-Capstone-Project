@@ -3,7 +3,7 @@
 ## Project Overview
 This repository contains my personal replication of the IBM Data Engineering Capstone Project labs and exercises, utilizing open-source tools and local environments (Docker, Python, MySQL, etc.) to simulate the cloud-based components and reinforce core data engineering concepts. The project is structured into multiple modules, each focusing on a key aspect of data engineering.
 
-## Current Status: In Progress (Module 1 Completed)
+## Current Status: In Progress (2/6 Modules Completed)
 
 I am currently in the process of replicating the project modules. Below is a log of my progress.
 
