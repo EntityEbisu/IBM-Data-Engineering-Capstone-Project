@@ -9,7 +9,7 @@ I am currently in the process of replicating the project modules. Below is a log
 
 ---
 
-### Module 1: Relational Databases and SQL Fundamentals (Completed: [Date of Completion])
+### Module 1: Relational Databases and SQL Fundamentals (Completed: 16/07/2025)
 **Objective:** Set up a relational database, load initial data, perform basic querying, and handle administrative tasks.
 * **Technologies Used:** Docker, MySQL, phpMyAdmin, SQL.
 * **Key Deliverables Replicated:**
@@ -54,7 +54,7 @@ I am currently in the process of replicating the project modules. Below is a log
 To run Module 1 locally:
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/YOUR_GITHUB_USERNAME/YOUR_REPOSITORY_NAME.git](https://github.com/YOUR_GITHUB_USERNAME/YOUR_REPOSITORY_NAME.git)
+    git clone [https://github.com/YOUR_GITHUB_USERNAME/YOUR_REPOSITORY_NAME.git](https://github.com/EntityEbisu/IBM-Data-Engineering-Capstone-Project.git)
     cd YOUR_REPOSITORY_NAME
     ```
 2.  **Set up Python Environment:**
